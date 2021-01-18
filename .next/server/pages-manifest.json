@@ -1,0 +1,16 @@
+{
+  "/_app": "pages/_app.js",
+  "/": "pages/index.html",
+  "/posts/gdfindiproject": "pages/posts/gdfindiproject.html",
+  "/posts/knowledgedb": "pages/posts/knowledgedb.html",
+  "/posts/monitoring": "pages/posts/monitoring.html",
+  "/posts/openfactory": "pages/posts/openfactory.html",
+  "/posts/productionorder1": "pages/posts/productionorder1.html",
+  "/posts/productionorder2": "pages/posts/productionorder2.html",
+  "/posts/scheduling": "pages/posts/scheduling.html",
+  "/posts/workloadchart-2": "pages/posts/workloadchart-2.html",
+  "/posts/workloadchart": "pages/posts/workloadchart.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}

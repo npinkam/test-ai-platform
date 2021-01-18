@@ -1,0 +1,109 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-3cb8f7ab5d3930a1a759.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/VzywMAnjGBzUfSl4VoUyk/_buildManifest.js",
+    "static/VzywMAnjGBzUfSl4VoUyk/_ssgManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/main-03531fd27c09e0d54e6e.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.d2e6186d001d2275b0af.js",
+      "static/chunks/commons.7af247b43e14ac66e88e.js",
+      "static/css/eb51d78aa0fa1ec92dcc.css",
+      "static/chunks/pages/index-f3ab9b4743784b2daf01.js"
+    ],
+    "/_app": [
+      "static/chunks/main-03531fd27c09e0d54e6e.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.d2e6186d001d2275b0af.js",
+      "static/chunks/commons.7af247b43e14ac66e88e.js",
+      "static/css/040291332960252e2ed3.css",
+      "static/chunks/pages/_app-b652f191d787631465c0.js"
+    ],
+    "/_error": [
+      "static/chunks/main-03531fd27c09e0d54e6e.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.d2e6186d001d2275b0af.js",
+      "static/chunks/commons.7af247b43e14ac66e88e.js",
+      "static/chunks/pages/_error-f0b9942d27ec52b7ff15.js"
+    ],
+    "/posts/gdfindiproject": [
+      "static/chunks/main-03531fd27c09e0d54e6e.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.d2e6186d001d2275b0af.js",
+      "static/chunks/commons.7af247b43e14ac66e88e.js",
+      "static/css/5fb573188862344f0a65.css",
+      "static/chunks/pages/posts/gdfindiproject-ac2556626de2317dcb36.js"
+    ],
+    "/posts/knowledgedb": [
+      "static/chunks/main-03531fd27c09e0d54e6e.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.d2e6186d001d2275b0af.js",
+      "static/chunks/commons.7af247b43e14ac66e88e.js",
+      "static/css/531730cb9c6e5dbc886a.css",
+      "static/chunks/pages/posts/knowledgedb-bb04de2f6df523d4e702.js"
+    ],
+    "/posts/monitoring": [
+      "static/chunks/main-03531fd27c09e0d54e6e.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.d2e6186d001d2275b0af.js",
+      "static/chunks/commons.7af247b43e14ac66e88e.js",
+      "static/css/531730cb9c6e5dbc886a.css",
+      "static/chunks/pages/posts/monitoring-22b65c8911ccdfea563f.js"
+    ],
+    "/posts/openfactory": [
+      "static/chunks/main-03531fd27c09e0d54e6e.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.d2e6186d001d2275b0af.js",
+      "static/chunks/commons.7af247b43e14ac66e88e.js",
+      "static/css/531730cb9c6e5dbc886a.css",
+      "static/chunks/pages/posts/openfactory-5452974e0171b26f5aa5.js"
+    ],
+    "/posts/productionorder1": [
+      "static/chunks/main-03531fd27c09e0d54e6e.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.d2e6186d001d2275b0af.js",
+      "static/chunks/commons.7af247b43e14ac66e88e.js",
+      "static/css/531730cb9c6e5dbc886a.css",
+      "static/chunks/pages/posts/productionorder1-cf4a1822ca651e0f538f.js"
+    ],
+    "/posts/productionorder2": [
+      "static/chunks/main-03531fd27c09e0d54e6e.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.d2e6186d001d2275b0af.js",
+      "static/chunks/commons.7af247b43e14ac66e88e.js",
+      "static/css/531730cb9c6e5dbc886a.css",
+      "static/chunks/pages/posts/productionorder2-22216eacedbd10511203.js"
+    ],
+    "/posts/scheduling": [
+      "static/chunks/main-03531fd27c09e0d54e6e.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.d2e6186d001d2275b0af.js",
+      "static/chunks/commons.7af247b43e14ac66e88e.js",
+      "static/css/531730cb9c6e5dbc886a.css",
+      "static/chunks/pages/posts/scheduling-6b88e11f01d8d6cfac6f.js"
+    ],
+    "/posts/workloadchart": [
+      "static/chunks/main-03531fd27c09e0d54e6e.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.d2e6186d001d2275b0af.js",
+      "static/chunks/commons.7af247b43e14ac66e88e.js",
+      "static/css/5fb573188862344f0a65.css",
+      "static/chunks/pages/posts/workloadchart-4eea3e3b13d4f292c549.js"
+    ],
+    "/posts/workloadchart-2": [
+      "static/chunks/main-03531fd27c09e0d54e6e.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.d2e6186d001d2275b0af.js",
+      "static/chunks/commons.7af247b43e14ac66e88e.js",
+      "static/css/531730cb9c6e5dbc886a.css",
+      "static/chunks/pages/posts/workloadchart-2-196a2068cb8ee3648d2f.js"
+    ]
+  },
+  "ampFirstPages": []
+}
